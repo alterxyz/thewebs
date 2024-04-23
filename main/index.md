@@ -5,7 +5,7 @@ title: Welcome to My Site
 
 # Hello, world
 
-Welcome to my new static website hosted on Azure Static Web Apps.
+Welcome to my site.
 
 [Other Version](https://index.youropen.xyz){: .button}
 [Chat with me](https://chat.youropen.xyz){: .button}
