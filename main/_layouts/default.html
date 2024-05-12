@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <style>
         .button {
-            background-color: #4CAF50; /* Green */
+            background-color: #4CAF50;
+            /* Green */
             border: none;
             color: white;
             padding: 15px 32px;
@@ -19,7 +21,17 @@
         }
     </style>
 </head>
+
 <body>
     {{ content }}
+
+    <script>
+        window.difyChatbotConfig = {
+            token: 'tn3K349xLiRF49Fn'
+        }
+    </script>
+    <script src="https://udify.app/embed.min.js" id="tn3K349xLiRF49Fn" defer>
+    </script>
 </body>
+
 </html>
