@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <style>
+        body {
+            background-color: #333333; /* Dark gray background */
+            color: #CCCCCC; /* Light gray text color for readability */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Use the full height of the viewport */
+            margin: 0; /* Remove default margin */
+            text-align: center; /* Align text in the center */
+            flex-direction: column; /* Stack elements vertically */
+            font-family: Arial, sans-serif; /* Optional: Change the font to a sans-serif for a more modern look */
+        }
+
+        .button {
+            background-color: #02423E; /* Slightly darker green than before */
+            border: 1px solid #444444; /* Dark border for the button */
+            color: #FFFFFF; /* White text for contrast */
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            transition: background-color 0.3s ease; /* Smooth transition for button hover */
+        }
+
+        .button:hover {
+            background-color: #1e1e1e; /* Even darker on hover */
+        }
+    </style>
+</head>
+
+<body>
+    {{ content }}
+</body>
+
+</html>
