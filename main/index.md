@@ -8,5 +8,5 @@ title: Welcome to My Site
 Welcome to my site.
 
 [Other Version](https://youropen.xyz/index2/){: .button}
-[Chat with me(AI)](https://youropen.xyz/jobchat/){: .button}
+[Chat with me (AI)](https://youropen.xyz/jobchat/){: .button}
 [About](https://about.youropen.xyz){: .button}
