@@ -8,29 +8,21 @@ permalink: /en_tools/
 
 A collection of small tools I've created.
 
----
-
 [Chat with me (If you are a recruiter)](https://youropen.xyz/jobchat/){: .button}
 [A-B Tasks Helper (AI)](https://youropen.xyz/en_tools/repeat_task/){: .button}
 
 [Short Link Converter](https://alterxyz.org/){: .button}
 [Telegram Bot Collections(AIs)](https://t.me/+68xchbbSTa9iNzMx){: .button}
 
----
-
 [About Me](https://about.youropen.xyz){: .button}
 [切换到中文](https://youropen.xyz/zh_tools/){: .button}
-
----
 
 ## Tool List
 
 ### Chat with me (AI)
 
 A chatbot powered by LLM and RAG, capable of answering your recruitment-related questions. It stays focused on "me" instead of going off-topic. Another key achievement is that this LLM can say "no" instead of always saying "yes" and fabricating information (in most cases).
-Try asking it "You know Rust?"
-
-[Chat with me (AI)](https://youropen.xyz/jobchat/){: .button}
+Try asking it "You know Rust?" [Chat with me (AI)](https://youropen.xyz/jobchat/)
 
 ### A-B Bot
 
@@ -40,21 +32,17 @@ Try asking it "You know Rust?"
 
 Similar to ChatGPT, where you provide the **first** message as the "task brief" and ChatGPT responds with "Understood." Then you enter the **second** message. However, instead of entering a **third** message, you choose to `edit` the **second** message multiple times.
 
-This bot functions in a similar way but is more straightforward and efficient.
-
-[A-B Bot](https://youropen.xyz/en_tools/repeat_task/){: .button}
+This bot functions in a similar way but is more straightforward and efficient. [A-B Bot](https://youropen.xyz/en_tools/repeat_task/)
 
 ### Short Link Converter
 
 Built using Cloudflare's KV database and an open-source project, featuring the same dark green theme as this personal website.
 
-Due to limited resources, data may only be stored temporarily. Please use for testing purposes only.
-
-[Short Link](https://alterxyz.org/){: .button}
+Due to limited resources, data may only be stored temporarily. Please use for testing purposes only: [Short Link](https://alterxyz.org/)
 
 ## Telegram Bot Collections
 
-This project is a deployment based on [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections), introducing a series of useful functions and mainstream large language model (LLM) bots to Telegram groups. It also includes some code and functional contributions to the original project.
+This project is a deployment based on yihong0618/tg_bot_collections [GitHub](https://github.com/yihong0618/tg_bot_collections), introducing a series of useful functions and mainstream large language model (LLM) bots to Telegram groups. It also includes some code and functional contributions to the original project.
 
 **Features:**
 
@@ -64,8 +52,7 @@ This project is a deployment based on [yihong0618/tg_bot_collections](https://gi
 
 **Try it now:**
 
-[GitHub](https://github.com/alterxyz/tg_bot_collections_lite){: .button}
-[Telegram](https://t.me/+68xchbbSTa9iNzMx){: .button}
+[GitHub](https://github.com/alterxyz/tg_bot_collections_lite) | [Telegram](https://t.me/+68xchbbSTa9iNzMx){: .button}
 
 **Improvements:**
 
@@ -75,5 +62,4 @@ This project is a deployment based on [yihong0618/tg_bot_collections](https://gi
 
 ### Other Helpful Links
 
-[About Me](https://about.youropen.xyz){: .button}
-[Tools (中文)](https://youropen.xyz/zh_tools/){: .button}
+[About Me](https://about.youropen.xyz) | [Tools (中文)](https://youropen.xyz/zh_tools/){: .button}
