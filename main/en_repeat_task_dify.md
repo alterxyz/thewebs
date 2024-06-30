@@ -1,10 +1,12 @@
 ---
 layout: darkgreen
-title: Tool
-permalink: /tool/repeat_task_zh_cn/
+title: AB Task Bot
+permalink: /en_tools/repeat_task/
 ---
 
-# 小工具
+# AB Task Bot
+
+Template some word may display in Chinese
 
 <iframe
   src="https://udify.app/chatbot/fT9to5hZt1XjomJG"
@@ -29,4 +31,5 @@ permalink: /tool/repeat_task_zh_cn/
   }
 </style>
 
+[Retrun](https://youropen.xyz/en_tools/){: .button}
 [My Github](https://about.youropen.xyz){: .button}

@@ -5,8 +5,12 @@ title: Welcome to My Site
 
 # Hello, world
 
-Welcome to my site.
+Welcome to my site!
 
-[Other Version](https://youropen.xyz/index2/){: .button}
-[Chat with me (AI)](https://youropen.xyz/jobchat/){: .button}
-[About](https://about.youropen.xyz){: .button}
+[My Tools](https://youropen.xyz/en_tools/){: .button}
+[Chat with me (Especially if you are a recruiter)](https://youropen.xyz/jobchat/){: .button}
+
+---
+
+[About me](https://about.youropen.xyz){: .button}
+[Feedback & Contact with me](https://forms.office.com/r/kv4xuaHxLg){: .button}
