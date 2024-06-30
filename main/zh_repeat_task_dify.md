@@ -4,11 +4,10 @@ title: AB Task Bot
 permalink: /zh_tools/repeat_task/
 ---
 
-# 小工具
+## 小工具
 
 <iframe
-  src="https://udify.app/chatbot/fT9to5hZt1XjomJG"
-  style="width: 80%; height: 80%; min-height: 700px"
+  src="https://udify.app/chat/fT9to5hZt1XjomJG"
   frameborder="0"
   allow="microphone">
 </iframe>

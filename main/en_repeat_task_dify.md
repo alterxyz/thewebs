@@ -4,13 +4,12 @@ title: AB Task Bot
 permalink: /en_tools/repeat_task/
 ---
 
-# AB Task Bot
+## AB Task Bot
 
 Template some word may display in Chinese
 
 <iframe
-  src="https://udify.app/chatbot/fT9to5hZt1XjomJG"
-  style="width: 80%; height: 80%; min-height: 700px"
+  src="https://udify.app/chat/fT9to5hZt1XjomJG"
   frameborder="0"
   allow="microphone">
 </iframe>
