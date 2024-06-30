@@ -4,8 +4,6 @@ title: AB Task Bot
 permalink: /zh_tools/repeat_task/
 ---
 
-## 小工具
-
 [返回](https://youropen.xyz/zh_tools/){: .button}
 [My Github](https://about.youropen.xyz){: .button}
 

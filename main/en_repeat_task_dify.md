@@ -4,10 +4,6 @@ title: AB Task Bot
 permalink: /en_tools/repeat_task/
 ---
 
-## AB Task Bot
-
-Template some word may display in Chinese
-
 [Retrun](https://youropen.xyz/en_tools/){: .button}
 [My Github](https://about.youropen.xyz){: .button}
 
