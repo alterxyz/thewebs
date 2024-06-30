@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: myhome
 title: AB Task Bot
 permalink: /en_tools/repeat_task/
 ---

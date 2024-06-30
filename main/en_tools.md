@@ -6,18 +6,16 @@ permalink: /en_tools/
 
 # Tools
 
-<div class="center-content">
-    A collection of small tools I've created.
+A collection of small tools I've created.
 
-    [Chat with me (If you are a recruiter)](https://youropen.xyz/jobchat/){: .button}
-    [A-B Tasks Helper (AI)](https://youropen.xyz/en_tools/repeat_task/){: .button}
+[Chat with me (If you are a recruiter)](https://youropen.xyz/jobchat/){: .button}
+[A-B Tasks Helper (AI)](https://youropen.xyz/en_tools/repeat_task/){: .button}
 
-    [Short Link Converter](https://alterxyz.org/){: .button}
-    [Telegram Bot Collections(AIs)](https://t.me/+68xchbbSTa9iNzMx){: .button}
+[Short Link Converter](https://alterxyz.org/){: .button}
+[Telegram Bot Collections(AIs)](https://t.me/+68xchbbSTa9iNzMx){: .button}
 
-    [About Me](https://about.youropen.xyz){: .button}
-    [切换到中文](https://youropen.xyz/zh_tools/){: .button}
-</div>
+[About Me](https://about.youropen.xyz){: .button}
+[切换到中文](https://youropen.xyz/zh_tools/){: .button}
 
 ## Tool List
 
@@ -54,7 +52,7 @@ This project is a deployment based on yihong0618/tg_bot_collections [GitHub](htt
 
 **Try it now:**
 
-[GitHub](https://github.com/alterxyz/tg_bot_collections_lite) | [Telegram](https://t.me/+68xchbbSTa9iNzMx){: .button}
+[GitHub](https://github.com/alterxyz/tg_bot_collections_lite) | [Telegram](https://t.me/+68xchbbSTa9iNzMx)
 
 **Improvements:**
 
@@ -64,4 +62,4 @@ This project is a deployment based on yihong0618/tg_bot_collections [GitHub](htt
 
 ### Other Helpful Links
 
-[About Me](https://about.youropen.xyz) | [Tools (中文)](https://youropen.xyz/zh_tools/){: .button}
+[About Me](https://about.youropen.xyz) | [Tools (中文)](https://youropen.xyz/zh_tools/)
