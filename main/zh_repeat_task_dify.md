@@ -6,11 +6,8 @@ permalink: /zh_tools/repeat_task/
 
 ## 小工具
 
-<iframe
-  src="https://udify.app/chat/fT9to5hZt1XjomJG"
-  frameborder="0"
-  allow="microphone">
-</iframe>
+[返回](https://youropen.xyz/zh_tools/){: .button}
+[My Github](https://about.youropen.xyz){: .button}
 
 <script>
  window.difyChatbotConfig = {
@@ -28,5 +25,9 @@ permalink: /zh_tools/repeat_task/
   }
 </style>
 
-[返回](https://youropen.xyz/zh_tools/){: .button}
-[My Github](https://about.youropen.xyz){: .button}
+<iframe
+  src="https://udify.app/chat/fT9to5hZt1XjomJG"
+  style="width: 100%; height: 100%; min-height: 700px"
+  frameborder="0"
+  allow="microphone">
+</iframe>
