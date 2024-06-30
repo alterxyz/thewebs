@@ -1,5 +1,5 @@
 ---
-layout: darkgreen
+layout: myhome
 title: Welcome to My Site
 ---
 

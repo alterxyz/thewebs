@@ -1,21 +1,23 @@
 ---
-layout: darkgreen
+layout: mypost
 title: Toolbox
 permalink: /en_tools/
 ---
 
 # Tools
 
-A collection of small tools I've created.
+<div class="center-content">
+    A collection of small tools I've created.
 
-[Chat with me (If you are a recruiter)](https://youropen.xyz/jobchat/){: .button}
-[A-B Tasks Helper (AI)](https://youropen.xyz/en_tools/repeat_task/){: .button}
+    [Chat with me (If you are a recruiter)](https://youropen.xyz/jobchat/){: .button}
+    [A-B Tasks Helper (AI)](https://youropen.xyz/en_tools/repeat_task/){: .button}
 
-[Short Link Converter](https://alterxyz.org/){: .button}
-[Telegram Bot Collections(AIs)](https://t.me/+68xchbbSTa9iNzMx){: .button}
+    [Short Link Converter](https://alterxyz.org/){: .button}
+    [Telegram Bot Collections(AIs)](https://t.me/+68xchbbSTa9iNzMx){: .button}
 
-[About Me](https://about.youropen.xyz){: .button}
-[切换到中文](https://youropen.xyz/zh_tools/){: .button}
+    [About Me](https://about.youropen.xyz){: .button}
+    [切换到中文](https://youropen.xyz/zh_tools/){: .button}
+</div>
 
 ## Tool List
 

@@ -1,11 +1,12 @@
 ---
-layout: darkgreen
+layout: mypost
 title: 工具箱
 permalink: /zh_tools/
 ---
 
 # 小工具
 
+<div class="center-content">
 一点自己做的小工具
 
 [和我聊聊(如果你是招聘官)](https://youropen.xyz/jobchat/){: .button}
@@ -15,6 +16,7 @@ permalink: /zh_tools/
 
 [关于我](https://about.youropen.xyz){: .button}
 [Switch to English](https://youropen.xyz/en_tools/){: .button}
+</div>
 
 ## 工具列表
 

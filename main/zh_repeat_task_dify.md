@@ -1,5 +1,5 @@
 ---
-layout: darkgreen
+layout: mypost
 title: AB Task Bot
 permalink: /zh_tools/repeat_task/
 ---

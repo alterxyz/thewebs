@@ -1,5 +1,5 @@
 ---
-layout: darkgreen
+layout: myhome
 title: Job Chat
 permalink: /jobchat/
 ---

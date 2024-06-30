@@ -1,0 +1,60 @@
+.page-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.page-title {
+    text-align: center;
+}
+
+.center-content {
+    text-align: center;
+}
+
+/* 其他全局样式 */
+body {
+    background-color: #333333;
+    color: #CCCCCC;
+    font-family: Arial, sans-serif;
+}
+
+.button {
+    background-color: #02423E;
+    border: 1px solid #444444;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #1e1e1e;
+}
+
+/* link */
+a:link,
+a:visited {
+    color: #cccccc;
+}
+
+a:visited {
+    color: #bbbbbb;
+}
+
+.center-all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* 可选：如果需要文字也居中 */
+    min-height: 100vh;
+    /*  确保页面内容至少占满屏幕高度 */
+    flex-direction: column;
+    /*  使内容垂直居中 */
+}
