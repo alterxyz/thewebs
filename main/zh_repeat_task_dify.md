@@ -18,13 +18,14 @@ permalink: /zh_tools/repeat_task/
  defer>
 </script>
 <style>
-  #dify-chatbot-bubble-button {
-    background-color: #1C64F2 !important;
-  }
-  #dify-chatbot-bubble-window {
+#dify-chatbot-bubble-button {
+    background-color: teal !important;
+}
+
+#dify-chatbot-bubble-window {
     width: 30rem !important;
     height: 100rem !important;
-  }
+}
 </style>
 
 <iframe
