@@ -21,6 +21,10 @@ permalink: /zh_tools/repeat_task/
   #dify-chatbot-bubble-button {
     background-color: #1C64F2 !important;
   }
+  #dify-chatbot-bubble-window {
+    width: 30rem !important;
+    height: 100rem !important;
+  }
 </style>
 
 <iframe
